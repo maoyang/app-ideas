@@ -1,11 +1,10 @@
 # Bin2Dec
 
-**Tier:** 1-Beginner
+**等級:** 1-初學者
 
-Binary is the number system all digital computers are based on.
-Therefore it's important for developers to understand binary, or base 2,
-mathematics. The purpose of Bin2Dec is to provide practice and
-understanding of how binary calculations.
+二進位制是所有數位電腦的基礎數字系統。 
+因此，對於開發人員來說，理解二進位制或二進位制數學非常重要。 
+Bin2dec 的目的是提供如何進行二進位制運算的實踐和理解。
 
 Bin2Dec allows the user to enter strings of up to 8 binary digits, 0's
 and 1's, in any sequence and then displays its decimal equivalent.
