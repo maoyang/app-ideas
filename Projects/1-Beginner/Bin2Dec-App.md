@@ -28,7 +28,14 @@ Bin2dec 允許使用者以任何順序輸入最多8個二進位制數字串，0�
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
 
 ## 沒有基礎要先上哪些課程？
+
+英文課程 (可用 Google 翻譯成中文字幕 )
+
 - [完整的 JavaScript 課程 2020 : 開發一個真實世界的專案](https://softnshare.com/the-complete-javascript-course/)
+
+中文課程
+
+- [中文課程 – JavaScript新手秘笈｜三大專案帶你輕鬆入門]( https://softnshare.com/%e4%b8%ad%e6%96%87%e8%aa%b2%e7%a8%8b-javascript%e6%96%b0%e6%89%8b%e7%a7%98%e7%ac%88/)
 
 ## 範例專案
 
