@@ -23,6 +23,7 @@
 
 中文課程
 
+- [中文課程 – 給網頁設計初學者的一門課：html+css](https://softnshare.com/htmlcss-d/)
 - [中文課程 – JavaScript新手秘笈｜三大專案帶你輕鬆入門]( https://softnshare.com/%e4%b8%ad%e6%96%87%e8%aa%b2%e7%a8%8b-javascript%e6%96%b0%e6%89%8b%e7%a7%98%e7%ac%88/)
 
 ## 有用的連結和資源
