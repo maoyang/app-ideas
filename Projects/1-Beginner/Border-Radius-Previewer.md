@@ -19,7 +19,9 @@
 -   [CSS3 Borders](https://www.w3schools.com/css/css3_borders.asp)
 -   [Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
 
-## 範例專案
+## 範例專案 
+
+建議先自己練習後再看這些範例
 
 -   [9elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 -   [Border Radius](https://border-radius.com/)
