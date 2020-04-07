@@ -1,25 +1,25 @@
-# Border-radius Previewer
+# 邊框半徑預覽器
 
-**Tier:** 1-Beginner
+**等級:** 1-初學者
 
-The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
+邊框半徑屬性可以更改多個值。請在更改這些值時預覽形狀的外觀。
 
-## User Stories
+## 使用者故事
 
--   [ ] User can see a box which has a `border-radius` property applied to it
--   [ ] User can change the 4 `border-radius` values that are applied to the box (top-left, top-right, bottom-left, bottom-right)
--   [ ] User can copy the resulting CSS to the clipboard
+-   [ ] 使用者可以看到一個 box 有一個可以被套用的 `border-radius` 屬性
+-   [ ] 使用者可以變更 4 個可以被套用到 box 的 `border-radius` 屬性值(top-left, top-right, bottom-left, bottom-right)
+-   [ ] 使用者可以複製最後的 CSS 結果到剪貼簿
 
-## Bonus features
+## 額外的功能
 
--   [ ] User can change all 8 possible values of the border-radius in order to create a complex shape
+-   [ ] 使用者可以改變所有8個可能的邊框半徑值，以建立一個複雜的形狀
 
-## Useful links and resources
+## 有用的連結和資源
 
 -   [CSS3 Borders](https://www.w3schools.com/css/css3_borders.asp)
 -   [Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
 
-## Example projects
+## 範例專案
 
 -   [9elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 -   [Border Radius](https://border-radius.com/)
