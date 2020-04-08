@@ -36,6 +36,20 @@ UI 外觀風格由你決定的，所以運用你的想象力和創造力！ 你�
 
 ## 範例專案
 
-- [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
-- [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
+- [Javascript 計算機](https://codepen.io/giana/pen/GJMBEv)
+- [React 計算機](https://codepen.io/mjijackson/pen/xOzyGX)
 - [Javascript-CALC](https://github.com/x0uter/javascript-calc)
+
+## 沒有基礎要先上哪些課程？
+
+英文課程 (可用 Google 翻譯成中文字幕 ) 
+
+- [從基礎開始學習最新的 HTML & CSS (包含 Sass)](https://softnshare.com/modern-html-css-from-the-beginning/)
+- [完整的 JavaScript 課程 2020 : 開發一個真實世界的專案](https://softnshare.com/the-complete-javascript-course/)
+- [最新的 React 與 Redux 課程 – 2020 更新](https://softnshare.com/react-redux/)
+
+中文課程
+
+- [中文課程 – 給網頁設計初學者的一門課：html+css](https://softnshare.com/htmlcss-d/)
+- [中文課程 – JavaScript新手秘笈｜三大專案帶你輕鬆入門]( https://softnshare.com/%e4%b8%ad%e6%96%87%e8%aa%b2%e7%a8%8b-javascript%e6%96%b0%e6%89%8b%e7%a7%98%e7%ac%88/)
+- [中文課程 – 2019 react 入門到高階課程，包括 react hooks，以及實戰](https://softnshare.com/javascript-react-es6-hook-router-umijs-redux-dva-antd/)
