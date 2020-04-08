@@ -1,27 +1,19 @@
-# Calculator
+# 計算機
 
-**Tier:** 1-Beginner
+**等級:** 1-初學者
 
-Calculators are not only one of the most useful tools available, but they are
-also a great way to understand UI and event processing in an application. In
-this problem you will create a calculator that supports basic arithmetic
-calculations on integers. 
+計算機不僅是現在最有用的工具之一，而且還是理解應用程式中 UI 和事件處理的一種很好的方式。 在這個問題中，你將建立一個計算機，該計算機支援整數的基本算術計算。
 
-The styling is up to you so use your imagination and get creative! You might
-also find it worth your time to experiment with the calculator app on your
-mobile device to better understand basic functionality and edge cases.
+UI 外觀風格由你決定的，所以運用你的想象力和創造力！ 你可能也會發現值得花時間在你的行動裝置上體驗一下這個計算機應用程式，以便更好地理解基本功能和異常的邊緣情況。
 
-### Constraints
+### 限制
 
-- You may not use the `eval()` function to execute calculations
+- 你不可以使用 `eval()` 函式來執行計算
 
-## User Stories
+## 使用者故事
 
--   [ ] User can see a display showing the current number entered or the
-result of the last operation.
--   [ ] User can see an entry pad containing buttons for the digits 0-9, 
-operations - '+', '-', '/', and '=', a 'C' button (for clear), and an 'AC'
-button (for clear all).
+-   [ ] 使用者可以看到當前輸入顯示的數字或上次操作的結果
+-   [ ] 使用者可以看到一個輸入面板包含有以下的按鈕，數字0-9，計算操作-’+’ ，’-’ ，’*’ ，’/’ 和 ’=’ ，一個’c’按鈕(用來做清除)和一個’ AC’按鈕(清除所有)
 -   [ ] User can enter numbers as sequences up to 8 digits long by clicking on
 digits in the entry pad. Entry of any digits more than 8 will be ignored.
 -   [ ] User can click on an operation button to display the result of that
