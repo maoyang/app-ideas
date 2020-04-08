@@ -34,7 +34,7 @@ UI 外觀風格由你決定的，所以運用你的想象力和創造力！ 你�
 - [Calculator (Wikipedia)](https://en.wikipedia.org/wiki/Calculator)
 - [MDN](https://developer.mozilla.org/en-US/)
 
-## 範例專案
+## 範例專案 ( 建議先自己做一次練習再看這些範例 ) 
 
 - [Javascript 計算機](https://codepen.io/giana/pen/GJMBEv)
 - [React 計算機](https://codepen.io/mjijackson/pen/xOzyGX)
