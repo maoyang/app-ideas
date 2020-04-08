@@ -13,37 +13,28 @@ UI 外觀風格由你決定的，所以運用你的想象力和創造力！ 你�
 ## 使用者故事
 
 -   [ ] 使用者可以看到當前輸入顯示的數字或上次操作的結果
--   [ ] 使用者可以看到一個輸入面板包含有以下的按鈕，數字0-9，計算操作-’+’ ，’-’ ，’*’ ，’/’ 和 ’=’ ，一個’c’按鈕(用來做清除)和一個’ AC’按鈕(清除所有)
--   [ ] User can enter numbers as sequences up to 8 digits long by clicking on
-digits in the entry pad. Entry of any digits more than 8 will be ignored.
--   [ ] User can click on an operation button to display the result of that
-operation on:
+-   [ ] 使用者可以看到一個輸入面板包含有以下的按鈕，數字0-9，計算操作-’+’ ，’-’ ，’*’ ，’/’ 和 ’=’ ，一個’C’按鈕(用來做清除)和一個’ AC’按鈕(清除所有)
+-   [ ] 使用者可以透過點選輸入面板中的數字按鈕來輸入長達8個位數的序列。 任何超過8位數後面的數字都將被忽略
+-   [ ] 使用者可以點選一個操作按鈕來顯示該操作的結果
     * the result of the preceding operation and the last number entered OR
     * the last two numbers entered OR
     * the last number entered
--   [ ] User can click the 'C' button to clear the last number or the last
-operation. If the users last entry was an operation the display will be
-updated to the value that preceded it.
--   [ ] User can click the 'AC' button to clear all internal work areas and
-to set the display to 0.
--   [ ] User can see 'ERR' displayed if any operation would exceed the 
-8 digit maximum.
+-   [ ] 使用者可以點選 'C' 按鈕來清除最後一個數字或最後一次操作。 如果使用者最後一個輸入是一個計算操作，顯示將被更新為它先前輸入的值
+-   [ ] 使用者可以點選'AC'按鈕清除所有內部工作區域，並將顯示設定為0
+-   [ ] 如果任何計算操作結果超過8位數的最大值，使用者可以看到“ ERR”顯示
 
-## Bonus features
+## 額外的功能
 
--   [ ] User can click a '+/-' button to change the sign of the number that is
-currently displayed.
--   [ ] User can see a decimal point ('.') button on the entry pad to that 
-allows floating point numbers up to 3 places to be entered and operations to
-be carried out to the maximum number of decimal places entered for any one
-number.
+-   [ ] 使用者可以單擊'+/-'按鈕來更改當前顯示的數字符號
+-   [ ] 使用者可以在輸入面板看到一個小數點('.')按鈕，允許浮點數字多達3位數，並可對任意一個輸入數字的最大浮點位數進行運算
 
-## Useful links and resources
+
+## 有用的連結和資源
 
 - [Calculator (Wikipedia)](https://en.wikipedia.org/wiki/Calculator)
 - [MDN](https://developer.mozilla.org/en-US/)
 
-## Example projects
+## 範例專案
 
 - [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
